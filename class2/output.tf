@@ -5,6 +5,7 @@
 output "ID" {
   value = "${aws_instance.web.id}"
 }
+
 output "AMI" {
   value = "${aws_instance.web.ami}"
 }
