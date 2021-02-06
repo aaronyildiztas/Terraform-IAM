@@ -1,2 +1,0 @@
-# terrafrom-class
-terrafrom examples
